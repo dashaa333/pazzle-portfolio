@@ -1,0 +1,15 @@
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\bin\Debug\net10.0\Create.exe
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\bin\Debug\net10.0\Create.deps.json
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\bin\Debug\net10.0\Create.runtimeconfig.json
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\bin\Debug\net10.0\Create.dll
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\bin\Debug\net10.0\Create.pdb
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\obj\Debug\net10.0\Create.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\obj\Debug\net10.0\Create.AssemblyInfoInputs.cache
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\obj\Debug\net10.0\Create.AssemblyInfo.cs
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\obj\Debug\net10.0\Create.csproj.CoreCompileInputs.cache
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\obj\Debug\net10.0\Create.sourcelink.json
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\obj\Debug\net10.0\Create.dll
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\obj\Debug\net10.0\refint\Create.dll
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\obj\Debug\net10.0\Create.pdb
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\obj\Debug\net10.0\Create.genruntimeconfig.cache
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\Create\obj\Debug\net10.0\ref\Create.dll
