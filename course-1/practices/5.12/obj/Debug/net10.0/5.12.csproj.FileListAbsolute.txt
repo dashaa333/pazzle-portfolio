@@ -1,0 +1,15 @@
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\bin\Debug\net10.0\5.12.exe
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\bin\Debug\net10.0\5.12.deps.json
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\bin\Debug\net10.0\5.12.runtimeconfig.json
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\bin\Debug\net10.0\5.12.dll
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\bin\Debug\net10.0\5.12.pdb
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\obj\Debug\net10.0\5.12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\obj\Debug\net10.0\5.12.AssemblyInfoInputs.cache
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\obj\Debug\net10.0\5.12.AssemblyInfo.cs
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\obj\Debug\net10.0\5.12.csproj.CoreCompileInputs.cache
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\obj\Debug\net10.0\5.12.sourcelink.json
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\obj\Debug\net10.0\5.12.dll
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\obj\Debug\net10.0\refint\5.12.dll
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\obj\Debug\net10.0\5.12.pdb
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\obj\Debug\net10.0\5.12.genruntimeconfig.cache
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\practices\5.12\obj\Debug\net10.0\ref\5.12.dll
