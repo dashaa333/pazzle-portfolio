@@ -1,0 +1,15 @@
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\bin\Debug\net10.0\2.12 homework.exe
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\bin\Debug\net10.0\2.12 homework.deps.json
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\bin\Debug\net10.0\2.12 homework.runtimeconfig.json
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\bin\Debug\net10.0\2.12 homework.dll
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\bin\Debug\net10.0\2.12 homework.pdb
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\obj\Debug\net10.0\2.12 homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\obj\Debug\net10.0\2.12 homework.AssemblyInfoInputs.cache
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\obj\Debug\net10.0\2.12 homework.AssemblyInfo.cs
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\obj\Debug\net10.0\2.12 homework.csproj.CoreCompileInputs.cache
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\obj\Debug\net10.0\2.12 homework.sourcelink.json
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\obj\Debug\net10.0\2.12 homework.dll
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\obj\Debug\net10.0\refint\2.12 homework.dll
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\obj\Debug\net10.0\2.12 homework.pdb
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\obj\Debug\net10.0\2.12 homework.genruntimeconfig.cache
+C:\Users\dacha\source\repos\dashaa333\pazzle-portfolio\course-1\homeworks\2.12 homework\obj\Debug\net10.0\ref\2.12 homework.dll
